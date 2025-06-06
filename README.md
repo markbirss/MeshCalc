@@ -8,8 +8,8 @@ BOARD | Tested OK |
 | USB port | Yes |
 | SPI LoRa wio-sx1262 | Yes |
 | USB Networking | Yes |
-| ADB | Still todo |
-| Audio | No - needs hw mod |
+| ADB | Yes |
+| Audio | No - needs hw mod and another gpio as i used it for LoRa |
 
 
 https://www.clockworkpi.com/
