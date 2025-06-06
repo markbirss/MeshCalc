@@ -111,7 +111,7 @@ Lora:
 
 Pinout (pictured above)
 ```
-[Core GPIOs]				Try
+[Core GPIOs]				
 1 3V3 OPT		3V3				Red
 2 GP2  RAM_TX		RM_IO12		MOSI	2	Blue
 3 GP3  RAM_RX 		RM_IO13		MISO	1	Green
