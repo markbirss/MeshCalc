@@ -67,6 +67,9 @@ root@luckfox:/#
 
 # Boot Image Required for Meshtatic
 
+Flash my other Ubuntu OS image for PicoCalc and then replace on boot.img
+https://github.com/markbirss/ubuntu_22.04.5_lts_picocalc
+
 Download Link
 
 https://drive.google.com/drive/folders/1v10ZoPi9GQchSC77REZS3_fdjDz7eGtV?usp=sharing
