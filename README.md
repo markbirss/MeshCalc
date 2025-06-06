@@ -1,6 +1,17 @@
 # MeshCalc
 Meshtastic running on Clockwork PicoCalc (Powered by Luckfox Lyra running on Ubuntu OS)
 
+BOARD | Tested OK |
+|:--|:--|
+| Keybaord | Yes |
+| Display | Yes | 
+| USB port | Yes |
+| SPI LoRa wio-sx1262 | Yes |
+| USB Networking | Yes |
+| ADB | Still todo |
+| Audio | No - needs hw mod |
+
+
 https://www.clockworkpi.com/
 
 https://forum.clockworkpi.com/t/luckfox-lyra-on-picocalc/16280
