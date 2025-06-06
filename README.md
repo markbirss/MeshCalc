@@ -89,7 +89,7 @@ edit /etc/meshtasticd/config.yaml
 
 you need to specify a MAC address / MAC sources for your nodes unique ID
 
-Installation and SHA256SUM
+Replace boot image (with your Luckfox Lyra connected to via USB)
 ```
 7z x boot.z
 sha256sum boot.img
