@@ -84,6 +84,31 @@ sudo ./upgrade_tool rd
 
 ```
 
+Meshtastic LoRa config.yaml
+
+/etc/meshtasticd/config.d/lora-lyra-picocalc-wio-sx1262.yaml
+```
+Lora:
+  Module: sx1262
+  DIO2_AS_RF_SWITCH: true
+  DIO3_TCXO_VOLTAGE: true
+  gpiochip: 0
+  MOSI: 12
+  MISO: 13
+  IRQ: 1
+  Busy: 23
+  Reset: 22
+  RXen: 0
+  gpiochip: 1
+  CS: 9
+  SCK: 11
+#  TXen: bridge to DIO2 on E22 module
+  SX126X_MAX_POWER: 22
+  spidev: spidev1.0
+  spiSpeed: 2000000
+
+```
+
 Support my work and considder **buying  me a coffee**
 
 https://buymeacoffee.com/mark.birss
