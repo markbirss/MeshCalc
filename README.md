@@ -1,5 +1,5 @@
 # MeshCalc
-Meshtastic running on Clockwork PicoCalc (Powered by Luckfox Lyra)
+Meshtastic running on Clockwork PicoCalc (Powered by Luckfox Lyra running on Ubuntu OS)
 
 https://www.clockworkpi.com/
 
