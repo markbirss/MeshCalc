@@ -9,7 +9,7 @@ BOARD | Tested OK |
 | SPI LoRa wio-sx1262 | Yes |
 | USB Networking | Yes |
 | ADB | Yes |
-| SDCARD Slot | No, remapped the spi to the external module |
+| SDCARD Slot | No, remapped the spi bus to the external pins instead |
 | Audio | No - needs hw mod and another gpio as i used it for LoRa |
 
 
