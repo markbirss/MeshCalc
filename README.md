@@ -64,7 +64,25 @@ root@luckfox:/#
 # ** [Meshtastic User Interface running (Framebuffer Mode)] - needs a mouse as input device since display has no touch **
 ![image](https://github.com/user-attachments/assets/d59cb872-b578-4668-80f1-e0a564466f18)
 
+# Boot Image Required for Meshtatic
 
+Download Link
+
+https://drive.google.com/drive/folders/1v10ZoPi9GQchSC77REZS3_fdjDz7eGtV?usp=sharing
+
+Installation and SHA256SUM
+```
+7z x boot.z
+sha256sum boot.img
+
+538b74d6b02b428a3506122c36815fa4cc0b6929808240d505f0635fc0c4d2dc  boot.img
+
+adb reboot loader
+sudo ./upgrade_tool td
+sudo ./upgrade_tool di -b ./boot.img
+sudo ./upgrade_tool rd
+
+```
 
 Support my work and considder **buying  me a coffee**
 
