@@ -113,6 +113,9 @@ Lora:
 
 ```
 
+If you are using another SX1262 module simply comment out the RXen line with a #
+NOTE: the yaml file is whitespace sentsitive, keep the spaces
+
 Pinout (pictured above)
 ```
 [Core GPIOs]				
