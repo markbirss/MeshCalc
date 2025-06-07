@@ -145,8 +145,8 @@ Pinout (pictured above)
 
 Mainboard GPIOs
 1 3V3 OUT               3V3             3V3             Red
-2 GP0 	UART0_RX	RM_IO23		Busy		Brown
-3 GP1 	UART0_TX	RM_IO22		Reset		White
+2 GP0 	UART0_TX	RM_IO22		Busy		Brown
+3 GP1 	UART0_RX	RM_IO23		Reset		White
 4 UART1_RX		NC		NC                              CKS32F103Rx
 5 UART1_TX		NC		NC                              CKS32F103Rx
 6 USB_DP                NC              NC
