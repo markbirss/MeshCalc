@@ -133,7 +133,7 @@ NOTE: the yaml file is whitespace sentsitive, keep the spaces
 
 Pinout (pictured above)
 ```
-[Core GPIOs]				
+[Core GPIOs]	                        LoRa			
 1 3V3 OPT		3V3		3V3		Red
 2 GP2  RAM_TX		RM_IO12		MOSI		Blue
 3 GP3  RAM_RX 		RM_IO13		MISO		Green
