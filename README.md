@@ -134,24 +134,24 @@ NOTE: the yaml file is whitespace sentsitive, keep the spaces
 Pinout (pictured above)
 ```
 [Core GPIOs]				
-1 3V3 OPT		3V3				Red
-2 GP2  RAM_TX		RM_IO12		MOSI	2	Blue
-3 GP3  RAM_RX 		RM_IO13		MISO	1	Green
-4 GP4  RAM_IO2		RM_IO0		[Rxen]	8	Gray
-5 GP5  RAM_IO3		RM_IO1		IRQ	5	Purple
-6 GP21 RAM_SCK		RM_IO26		SCK	3	Yellow
-7 GP28 Free		RM_IO24		CS	4	Orange
-8 GND			GND				Black
+1 3V3 OPT		3V3		3V3		Red
+2 GP2  RAM_TX		RM_IO12		MOSI		Blue
+3 GP3  RAM_RX 		RM_IO13		MISO		Green
+4 GP4  RAM_IO2		RM_IO0		[Rxen]		Gray
+5 GP5  RAM_IO3		RM_IO1		IRQ		Purple
+6 GP21 RAM_SCK		RM_IO26		SCK		Yellow
+7 GP28 Free		RM_IO24		CS		Orange
+8 GND			GND		GND		Black
 
 Mainboard GPIOs
-1 3V3 OUT               3V3                             Red
-2 GP0 	UART0_RX	RM_IO23		Busy	6	Brown
-3 GP1 	UART0_TX	RM_IO22		Reset	7	White
-4 UART1_RX		NC		CKS32F103Rx
-5 UART1_TX		NC		CKS32F103Rx
-6 USB_DP                NC
-7 USB_DN                NC
-8 GND                   NC
+1 3V3 OUT               3V3             3V3             Red
+2 GP0 	UART0_RX	RM_IO23		Busy		Brown
+3 GP1 	UART0_TX	RM_IO22		Reset		White
+4 UART1_RX		NC		NC                              CKS32F103Rx
+5 UART1_TX		NC		NC                              CKS32F103Rx
+6 USB_DP                NC              NC
+7 USB_DN                NC              NC
+8 GND                   NC              NC
 ```
 
 
