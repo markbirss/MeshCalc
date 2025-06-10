@@ -150,9 +150,10 @@ Lora:
   spiSpeed: 2000000
 
 ```
+# NOTE: the yaml file is whitespace sentsitive, keep the spaces
 
 If you are using another SX1262 module simply comment out the RXen line with a #
-NOTE: the yaml file is whitespace sentsitive, keep the spaces
+
 
 Support my work and considder **buying  me a coffee**
 
