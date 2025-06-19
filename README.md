@@ -90,12 +90,19 @@ root@luckfox:/#
 
 # Boot Image Required for Meshtatic
 
+[Ubuntu 22.04]
 Flash my other Ubuntu OS image for PicoCalc and then replace only boot.img
 https://github.com/markbirss/ubuntu_22.04.5_lts_picocalc
 
 Download Link
 
 https://drive.google.com/drive/folders/1v10ZoPi9GQchSC77REZS3_fdjDz7eGtV?usp=sharing
+
+or
+
+[Ubuntu 24.04]
+
+https://github.com/markbirss/ubuntu-24.04.2-picocalc
 
 Follow the meshtastic installation instructions from
 https://meshtastic.org/docs/software/linux/installation/
