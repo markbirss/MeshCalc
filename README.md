@@ -102,6 +102,12 @@ or
 
 [Ubuntu 24.04]
 
+https://github.com/markbirss/ubuntu-24.04.2-meshtastic-picocalc-wio-sx1262
+
+or 
+
+[Ubuntu 24.04] Developer Image
+
 https://github.com/markbirss/ubuntu-24.04.2-picocalc
 
 Follow the meshtastic installation instructions from
