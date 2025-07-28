@@ -4,6 +4,7 @@ Meshtastic running on Clockwork PicoCalc (Powered by Luckfox Lyra running on Ubu
 BOARD | Tested OK |
 |:--|:--|
 | Keybaord | Yes |
+| Virtual Mouse via keyboard | Yes |
 | Display | Yes | 
 | USB port | Yes |
 | SPI LoRa wio-sx1262 | Yes |
