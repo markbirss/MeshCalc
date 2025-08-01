@@ -86,7 +86,8 @@ root@luckfox:/#
 
 ![image](https://github.com/user-attachments/assets/0f3469a7-efee-4cfe-baec-044a8dada9b9)
 
-# ** [Meshtastic User Interface running (Framebuffer Mode)] - needs a mouse as input device since display has no touch **
+# ** [Meshtastic User Interface running (Framebuffer Mode)] - you can use the keyboards virtual mouse option with arrow keys and brackets **
+Press Right Shift to enable virtual mouse
 ![image](https://github.com/user-attachments/assets/d59cb872-b578-4668-80f1-e0a564466f18)
 
 # Boot Image Required for Meshtatic
