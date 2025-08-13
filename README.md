@@ -24,6 +24,7 @@ https://forum.clockworkpi.com/t/luckfox-lyra-on-picocalc/16280
 ![image](https://github.com/user-attachments/assets/efe95224-e7ff-4623-b3cd-f3e74317f6af)
 
 Pinout (pictured above)
+
 ```
 [Core GPIOs]	                        LoRa			
 1 3V3 OPT		3V3		3V3		Red
