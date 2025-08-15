@@ -25,7 +25,8 @@ https://forum.clockworkpi.com/t/luckfox-lyra-on-picocalc/16280
 
 Pinout (pictured above)
 
-| Core GPIOs | | LoRa |			
+Core GPIOs | | | LoRa OK |
+|:--|:--||:--|:--|
 |1 3V3 Output | 3V3 | 3V3 | Red |
 |2 GP2  RAM_TX  | RM_IO12 | MOSI |Blue |
 |3 GP3  RAM_RX  | RM_IO13 | MISO | Green |
