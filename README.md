@@ -27,8 +27,8 @@ Pinout (pictured above)
 
 ```
 [Core GPIOs]	                        LoRa			
-1 3V3 OPT		3V3		3V3		Red
-2 GP2  RAM_TX		RM_IO12		MOSI		Blue
+1 3V3 Output            3V3		3V3		Red
+2 GP2  RAM_TX           RM_IO12		MOSI		Blue
 3 GP3  RAM_RX 		RM_IO13		MISO		Green
 4 GP4  RAM_IO2		RM_IO0		[Rxen]		Gray
 5 GP5  RAM_IO3		RM_IO1		IRQ		Purple
