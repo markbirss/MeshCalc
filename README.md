@@ -14,6 +14,19 @@ BOARD | Tested OK |
 | Audio | No - needs hw mod and another gpio as i used it for LoRa |
 | USB WiFi | No - but maybe could look at incl some |
 
+
+Core GPIOs | | | LoRa OK |
+|:--|:--||:--|:--|
+|1 3V3 Output | 3V3 | 3V3 | Red |
+|2 GP2  RAM_TX  | RM_IO12 | MOSI |Blue |
+|3 GP3  RAM_RX  | RM_IO13 | MISO | Green |
+|4 GP4  RAM_IO2 | RM_IO0 | [Rxen] | Gray |
+|5 GP5  RAM_IO3	| RM_IO1 | IRQ | Purple |
+|6 GP21 RAM_SCK	| RM_IO26 | SCK | Yellow |
+|7 GP28 Free | RM_IO24 | CS | Orange |
+|8 GND | GND | GND | Black |
+
+
 https://www.clockworkpi.com/
 
 https://forum.clockworkpi.com/t/luckfox-lyra-on-picocalc/16280
@@ -35,6 +48,7 @@ Core GPIOs | | | LoRa OK |
 |6 GP21 RAM_SCK	| RM_IO26 | SCK | Yellow |
 |7 GP28 Free | RM_IO24 | CS | Orange |
 |8 GND | GND | GND | Black |
+
 ```
 
 
