@@ -172,7 +172,7 @@ Lora:
 If you are using another SX1262 module simply comment out the RXen line with a #
 
 
-Support my work and considder **buying  me a coffee**
+Support my work and consider **buying  me a coffee**
 
 https://buymeacoffee.com/mark.birss
 
