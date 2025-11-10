@@ -19,6 +19,10 @@ https://www.clockworkpi.com/
 
 https://forum.clockworkpi.com/t/luckfox-lyra-on-picocalc/16280
 
+
+<img width="1848" height="4000" alt="image" src="https://github.com/user-attachments/assets/d77ee284-ed74-401e-8a5d-81226d0719b4" />
+
+
 # ** [Connection - External GPIO Used] **
 ![image](https://github.com/user-attachments/assets/efe95224-e7ff-4623-b3cd-f3e74317f6af)
 
