@@ -11,6 +11,7 @@ BOARD | Tested OK |
 | USB Networking | Yes |
 | ADB | Yes |
 | SDCARD Slot | No - remapped the spi bus to the external pins instead |
+| Serial Console | No - pins used for SPI LoRa |
 | Audio | No - needs hw mod and another gpio as i used it for LoRa |
 | USB WiFi | No - but maybe could look at incl some |
 
