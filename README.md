@@ -18,8 +18,6 @@ https://www.clockworkpi.com/
 
 https://forum.clockworkpi.com/t/luckfox-lyra-on-picocalc/16280
 
-# ** Wip **
-
 # ** [Connection - External GPIO Used] **
 ![image](https://github.com/user-attachments/assets/efe95224-e7ff-4623-b3cd-f3e74317f6af)
 
@@ -167,6 +165,16 @@ Lora:
   spiSpeed: 2000000
 
 ```
+
+If you are the waveshare pico lora hat or another sx1262 module
+
+<img width="695" height="359" alt="image" src="https://github.com/user-attachments/assets/aacba10f-c813-449a-a358-d41e6a38fa3c" />
+
+<img width="960" height="530" alt="image" src="https://github.com/user-attachments/assets/6bf5a8c8-ef23-4666-b2e2-0121dc97ffbc" />
+
+<img width="695" height="187" alt="image" src="https://github.com/user-attachments/assets/deffd34f-d28b-4f79-b1d2-988760e925c9" />
+
+
 # NOTE: the yaml file is whitespace sentsitive, keep the spaces
 
 If you are using another SX1262 module simply comment out the RXen line with a #
