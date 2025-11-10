@@ -166,7 +166,7 @@ Lora:
 
 ```
 
-If you are the waveshare pico lora hat or another sx1262 module
+If you are using the waveshare pico lora hat or another sx1262 module
 
 <img width="695" height="359" alt="image" src="https://github.com/user-attachments/assets/aacba10f-c813-449a-a358-d41e6a38fa3c" />
 
